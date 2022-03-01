@@ -1,0 +1,94 @@
+
+
+/*
+* IMPORTS
+*/
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway:400,700');
+
+
+/*
+* BASE
+*/
+* {
+	box-sizing:content-box;
+}
+
+html body {
+	width:100%;
+	padding:0;
+	margin:0;
+}
+html {
+	height:100%;
+}
+body {
+	min-height:100%;
+	position:relative;
+
+	color:white;
+	background-color:black;
+	font-family:'Raleway', 'Open Sans', 'sans-serif';
+}
+
+
+.render-canvas {
+	width:500px;
+	height:500px;
+
+	border:2px solid black;
+	background-color: black;
+}
+
+
+/*
+* LAYOUT
+*/
+.main {
+	padding:32px 56px;
+}
+
+/*
+* MODULE
+*/
+.heading {
+	color:white;
+	margin-left: 35%;
+	padding-bottom: 16px;
+}
+.heading__title {
+	color:white;
+	font-size:2em;
+	font-weight:bold;
+	
+	font-family:'Poiret One', 'Realeway', 'Open Sans', 'sans-serif', ''
+
+}
+.heading-description {
+	color:white;
+}
+
+.svg-main {
+	width: 450px;
+	height: 450px;
+	display: block;
+	margin: auto;
+}
+
+/*
+* OTHER
+*/
+
+
+
+/*
+* QUERIES
+*/
+
+
+
+
+
+
+
+
+
