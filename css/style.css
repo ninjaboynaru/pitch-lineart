@@ -45,6 +45,7 @@ body {
 */
 .main {
 	padding:32px 56px;
+	text-align: center;
 }
 
 /*
@@ -52,7 +53,8 @@ body {
 */
 .heading {
 	color:white;
-	margin-left: 35%;
+	display: inline-block;
+	text-align: left;
 	padding-bottom: 16px;
 }
 .heading__title {
