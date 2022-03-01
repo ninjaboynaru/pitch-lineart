@@ -4,4 +4,4 @@ Utilizes D3.js for rendering
 
 [Check It Out Here](https://ninjaboynaru.github.io/pitch-lineart/)
 
-![Snapshot 2 Large](https://raw.githubusercontent.com/ninjaboynaru/pitch-lineart/master/example.PNG)
+![Snapshot 2 Large](https://raw.githubusercontent.com/ninjaboynaru/pitch-lineart/master/example.png)
